@@ -11,7 +11,7 @@
  * @license Creative Commons Attribution-Share Alike 3.0 Unported 
  *          http://creativecommons.org/licenses/by-sa/3.0/
  **/
-class TheCodeTrainJsLinter {
+class TheCodeTrainJsLinter extends TheCodeTrainBaseValidator {
     
 //    const FILE_NOT_FOUND = -2;
     const NO_LINTER_RESPONSE = -1;
